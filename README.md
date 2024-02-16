@@ -1,55 +1,91 @@
-Note:
-
-- Jawaban yang benar adalah opsi dengan angka 1 dibelakangnya
-
----
+# Soal Quiziz
 
 1. Android 1.0 Muncul Pada Tahun?
-   
-a. 1945
 
-b. 2001
+   ```
+   a. 1945
+   b. 2001
+   c. 2009
+   d. 2008 (ini jawaban)
+   ```
 
-c. 2009
+2. Siapa nama maskot kotlin?
 
-**d. 2008** 1
+   ```
+   a. Rudi
+   b. kotlur
+   c. kodee (ini jawaban)
+   d. komeng
+   ```
 
-3. Siapa nama maskot kotlin?
-   
-a. Rudi
+3. Setelah proses kompilasi ke dalam java code, proses kompilasi apa yang dijalankan selanjutnya?
 
-b. kotlur
+   ```
+   a. Kompilasi Dex (ini jawaban)
+   b. Ditunggu saja
+   c. Dalvik Byte Code
+   d. Kompilasi Bit
+   ```
 
-**c. kodee** 1
+4. Sejak kapan kotlin mulai diangkat oleh google?
 
-d. komeng
+   ```
+   a. sejak saat itu
+   b. sejak negara api menyerang
+   c. 2019 (ini jawaban)
+   d. 2018
+   ```
 
-5. Setelah proses kompilasi ke dalam java code, proses kompilasi apa yang dijalankan selanjutnya?
+5. Apakah Kotlin mendukung Multiplatform Development?
 
-**a. Kompilasi Dex** 1
+   ```
+   a. mendukung (ini jawaban)
+   b. tidak mendukung
+   c. mungkin
+   d. tidak tahu
+   ```
 
-b. Ditunggu saja
+6. Perusahaan mana yang pertama kali membuat aplikasi komersial pertama menggunakan Flutter?
 
-c. Dalvik Byte Code
+    ```
+    A. Google
+    B. Very Good Company
+    C. Tokopedia
+    D. Very Good Ventures (ini jawaban)
+    ```
 
-d. Kompilasi Bit
+7. Platform mana yang ditarget oleh Project Hummingbird?
 
-7. Sejak kapan kotlin mulai diangkat oleh google?
+    ```
+    A. Windows
+    B. iOS
+    C. Web (ini jawaban)
+    D. MacOS
+    ```
+  
+8. Apakah benar Flutter membuat pengembangan aplikasi menjadi lebih lama?
 
-a. sejak saat itu
+    ```
+    A. Benar
+    B. Salah (ini jawaban)
+    ```
 
-b. sejak negara api menyerang
+9. Apa nama desktop dari Fuchsia OS yang ditulis menggunakan Flutter?
 
-**c. 2019** 1
+    ```
+    A. Zircon
+    B. Pangolin (ini jawaban)
+    C. KDE
+    D. GNOME
+    ```
 
-d. 2018
+10. Manakah di antara ini yang bukan merupakan state management di Flutter?
 
-9. Apakah Kotlin mendukung Multiplatform Development?
-   
-**a. mendukung** 1
+    ```
+    A. Context API (ini jawaban)
+    B. Riverpod
+    C. BLoC
+    D. Provider
+    ```
 
-b. tidak mendukung
 
-c. mungkin
-
-d. tidak tahu
